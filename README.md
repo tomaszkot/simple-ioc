@@ -22,7 +22,7 @@ Usage:
   };
 
   //test container
-    container::registerType<IA, A>();
+  container::registerType<IA, A>();
   container::registerType<IB, B>();
 
   auto objA1 = container::resolve<IA>();
