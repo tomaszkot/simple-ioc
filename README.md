@@ -1,6 +1,6 @@
 # simple-ioc
 
-The simplest possible IOC in cpp.
+The simplest possible IoC in cpp.
 
 Usage:
   ```
